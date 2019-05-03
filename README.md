@@ -17,4 +17,7 @@ A seguir estao as instruções para instalação do dicionario de LIBRAS. O dici
 ### Programas necessarios
 Apache, PHP e MySQL
 
+# Licença
+O código derivado do Wordpress está licenciado sob licença GPL version2. Os vídeos estão licenciados com licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 3.0 (https://creativecommons.org/licenses/by-nc-sa/3.0/deed.pt_BR)
+
 
