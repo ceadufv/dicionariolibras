@@ -21,8 +21,7 @@ Apache, PHP e MySQL
 O código derivado do Wordpress está licenciado sob licença GPL version2. Os vídeos estão licenciados com licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 3.0 (https://creativecommons.org/licenses/by-nc-sa/3.0/deed.pt_BR)
 
 ## Desenvolvimento
-- Cead - Universidade Federal de Viçosa - https://www.cead.ufv.br
-- Agencia de Fomento: CAPES/UAB
+Cead - Universidade Federal de Viçosa (https://www.cead.ufv.br) com recursos do edital 03/2015 da CAPES/UAB
 
 ### Equipe
 
