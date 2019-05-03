@@ -4,10 +4,7 @@ Dicionario de LIBRAS desenvolvido com recursos do Edital 03/2015 da CAPES/UAB
 ## Instalação
 A seguir estao as instruções para instalação do dicionario de LIBRAS. O dicionário foi criado utilizando a ferramenta WordPress e este pacote contem a instalação do WordPress já populado com todo o conteúdo do dicionário de LIBRAS. 
 
-## Programas necessarios
-Apache, PHP e MySQL
-
-## Etapas
+### Etapas
 1. Crie um banco de dados MySQL e registre o usuario que deseja utilizar para a aplicação
 2. Baixe os arquivos deste repositórios para uma pasta no servidor onde eles ficarão hospedados. 
 3. Acesse a pasta do projeto no servidor. Faça o download dos vídeos disponíveis no link: https://drive.google.com/file/d/1s_VgvP_tb2JpJhUuoa9WTD_iX39SCYlg/view?usp=sharing. Extraia os arquivos de vídeo dentro do diretório "wp-content/uploads"
@@ -16,3 +13,8 @@ Apache, PHP e MySQL
 6. Pronto, o sistema esta instalado! Para acessar a área administrativa do site use as credencias a seguir:
   usuario: admin
   senha: 123456
+
+### Programas necessarios
+Apache, PHP e MySQL
+
+
