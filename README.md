@@ -27,12 +27,12 @@ O código derivado do Wordpress está licenciado sob licença GPL version2. Os v
 ### Equipe
 
 **Coordenador UAB/UFV**
-: Prof. Frederico José Vieira Passos - PRE/UFV
+:  Prof. Frederico José Vieira Passos - PRE/UFV
 
 **Coordenação do Projeto**
-: Profa. Ana Luisa Borba Gediel - DLA/UFV
-: Pedro de Almeida Sacramento - Cead/UFV
-: Prof. Victor Luiz Alves Mourão - DCS/UFV
+:  Profa. Ana Luisa Borba Gediel - DLA/UFV
+:  Pedro de Almeida Sacramento - Cead/UFV
+:  Prof. Victor Luiz Alves Mourão - DCS/UFV
 
 **Coordenação Cead/UFV**
 : Profa. Silvane Guimarães - Cead/UFV
