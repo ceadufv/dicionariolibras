@@ -9,8 +9,10 @@ Apache, PHP e MySQL
 
 ## Etapas
 1. Crie um banco de dados MySQL e registre o usuario que deseja utilizar para a aplicação
-2. Insira as credenciais de acesso ao banco no arquivo "wp-config.php", modificando as variaveis DB_NAME, DB_USER, DB_PASSWORD e DB_HOST.
-3. No banco criado no MySQL, acesse a tabela “tlmg_options” no banco de dados e altere os registros de id 1 (‘siteurl’) e 2 (‘home’) para o endereço da máquina onde o sistema está hospedado
-4. Pronto, o sistema esta instalado! Para acessar a área administrativa do site use as credencias a seguir:
+2. Baixe os arquivos deste repositórios para uma pasta no servidor onde eles ficarão hospedados. Acesse a pasta do projeto no servidor. 
+3. Faça o download dos vídeos disponíveis no link: https://drive.google.com/file/d/1s_VgvP_tb2JpJhUuoa9WTD_iX39SCYlg/view?usp=sharing. Extraia os arquivos de vídeo dentro do diretório "wp-content/uploads"
+4. Insira as credenciais de acesso ao banco no arquivo "wp-config.php", modificando as variaveis DB_NAME, DB_USER, DB_PASSWORD e DB_HOST.
+5. No banco criado no MySQL, acesse a tabela “tlmg_options” no banco de dados e altere os registros de id 1 (‘siteurl’) e 2 (‘home’) para o endereço da máquina onde o sistema está hospedado
+6. Pronto, o sistema esta instalado! Para acessar a área administrativa do site use as credencias a seguir:
   usuario: admin
   senha: 123456
