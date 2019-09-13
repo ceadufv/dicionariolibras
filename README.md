@@ -69,7 +69,8 @@ Cead - Universidade Federal de Viçosa (https://www.cead.ufv.br) com recursos do
 - Lael Machado Rodrigues
 - Maria Nazaré Carvalho Cunha de Souza 
 - Melissa Alves de Sousa
-- Paula Teresa Mota Gibrim 
+- Paula Teresa Mota Gibrim
+- Pedro de Almeida Sacramento
 - Pedro Tinôco Scola
 - Ramon da Silva Teixeira
 - Sarah Helen Gravina Fernandes
